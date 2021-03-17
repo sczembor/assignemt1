@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dinokfenicky/downloads/sockets/apps/client.c
+netdb.h
+-
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+stdlib.h
+-
+errno.h
+-
+lines.h
+/Users/dinokfenicky/downloads/sockets/apps/lines.h
+
+include/lines.h
+unistd.h
+-
+

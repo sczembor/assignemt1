@@ -1,0 +1,6 @@
+/Users/dinokfenicky/downloads/sockets/CMakeFiles/rebuild_cache.dir
+/Users/dinokfenicky/downloads/sockets/CMakeFiles/edit_cache.dir
+/Users/dinokfenicky/downloads/sockets/CMakeFiles/server.dir
+/Users/dinokfenicky/downloads/sockets/CMakeFiles/jclient.dir
+/Users/dinokfenicky/downloads/sockets/CMakeFiles/client.dir
+/Users/dinokfenicky/downloads/sockets/CMakeFiles/test.dir
