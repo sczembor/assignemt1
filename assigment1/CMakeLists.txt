@@ -3,8 +3,6 @@ project(assignment1)
 
 #INCLUDE_DIRECTORIES("include")
 
-#add_executable(test apps/test.c src/lines.c)
-#add_executable(client apps/client.c src/lines.c)
 #add_executable(server apps/server.c src/lines.c)
 
 #find_package (Threads)
